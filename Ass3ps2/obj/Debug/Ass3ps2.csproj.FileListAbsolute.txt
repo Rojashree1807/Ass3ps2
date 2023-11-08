@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass3ps2\Ass3ps2\bin\Debug\Ass3ps2.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass3ps2\Ass3ps2\bin\Debug\Ass3ps2.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass3ps2\Ass3ps2\bin\Debug\Ass3ps2.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass3ps2\Ass3ps2\obj\Debug\Ass3ps2.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass3ps2\Ass3ps2\obj\Debug\Ass3ps2.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass3ps2\Ass3ps2\obj\Debug\Ass3ps2.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\Ass3ps2\Ass3ps2\obj\Debug\Ass3ps2.pdb
